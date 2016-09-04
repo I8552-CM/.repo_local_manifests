@@ -6,6 +6,6 @@
 	<project path="device/samsung/arubaslim" name="I8552-cm11/android_device_arubaslim" revision="cm-11.0" remote="github" />
 	<project path="vendor/samsung/arubaslim" name="I8552-cm11/andoid_vendor_arubaslim" revision="cm-11.0" remote="github" />
 	<project path="hardware/atheros/wlan" name="I8552-cm11/android_hardware_atheros_wlan" revision="cm-11.0" remote="github" />
-	<project path="hardware/qcom/display-legacy" name="I8552-cm11/android_hardware_qcom_display-legacy" revision="cm-11.0" remote="github" />
+	<project path="hardware/qcom/display-legacy" name="I8552-cm11/android_hardware_qcom_display-legacy-new" revision="cm-11.0" remote="github" />
 	<project path="hardware/qcom/media-legacy" name="I8552-cm11/hardware_qcom_media-legacy" revision="cm-11.0" remote="github" />
 </manifest>
